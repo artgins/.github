@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# .github
-
 [Yuneta Simplified](https://doc.yuneta.io) is a development framework focused on messaging and services, 
 based on Event-driven, Automata-based and Object-oriented programming paradigms. 
 Heavy use of JSON, serie-time, key-value, flat-files and graphs concepts.
