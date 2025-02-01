@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Yuneta Simplified](https://doc.yuneta.io) is a development framework focused on messaging and services. 
+`Yuneta Simplified` is a development framework focused on messaging and services. 
 It leverages event-driven, automata-based, and object-oriented programming paradigms, 
 making heavy use of JSON, real-time data, key-value structures, flat files, and graph concepts.
 
@@ -15,6 +15,8 @@ It was later implemented in C:
 - [yuno-store](https://github.com/yuno-store)
 
 It is now being redesigned in [YunetaS](https://github.com/artgins/yunetas).
+
+Documentation is available in [Yuneta Simplified](https://doc.yuneta.io).
 
 **Important:** While the underlying concepts remain the same, the current version’s API is incompatible with previous versions.
 
