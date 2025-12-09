@@ -9,7 +9,7 @@ making heavy use of JSON, real-time data, key-value structures, flat files, and 
 The initial approach to this concept was developed in Python:
 - [GinsFSM](https://pythonhosted.org/ginsfsm/)
 
-It is now being redesigned in [YunetaS](https://github.com/artgins/yunetas).
+It is now being redesigned in C [YunetaS](https://github.com/artgins/yunetas).
 
 Documentation is available in [Yuneta Simplified](https://doc.yuneta.io).
 
